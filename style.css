@@ -1,0 +1,18 @@
+h3{
+    color:blue;
+}
+
+h4{
+    color:orange;
+}
+
+.Class_selector{
+    color:purple;
+}
+#Id_selector{
+    color:pink;
+}
+
+h5,p{
+    color:cyan;
+}
